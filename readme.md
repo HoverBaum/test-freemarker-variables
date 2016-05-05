@@ -29,3 +29,11 @@ Somehow this hackaround looses some Chinese characters in the `fm.render()`.
 `test.js` illustrates a version which should work but does not.
 
 `test2.js` illustrates the hackaround.
+
+## Test yourself
+
+- clone this repo
+- run `npm install`
+- run the tests
+
+You need to have Java installed for FreeMarker.

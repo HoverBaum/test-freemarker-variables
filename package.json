@@ -1,0 +1,15 @@
+{
+  "name": "testing-freemarker",
+  "version": "1.0.0",
+  "description": "This repo is meant to illustrate a bug with [freemarker.js](https://github.com/ijse/freemarker.js).",
+  "main": "test.js",
+  "dependencies": {
+    "freemarker.js": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
